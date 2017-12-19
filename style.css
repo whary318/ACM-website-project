@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(240, 240, 240, .7);
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    background-color: rgba(210, 215, 216, 0.76);
+    width: 80%;
+    height: 80%;
+}
+#Item {
+    width: 220px;
+    height: 330px;
+    background-color: rgba(169, 227, 245, 0.3);
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+#Item img {
+    width: 150px;
+    height: 200px;
+}
